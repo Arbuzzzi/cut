@@ -1,5 +1,9 @@
-# [Cutter](https://arbuzzzi.github.io/cut/dist/index.html "Просмотр")
-https://arbuzzzi.github.io/cut/dist/index.html
+# [Cutter](http://cut.av.moscow "Просмотр")
+http://cut.av.moscow/
+
+Логин: test@test.te 
+Пароль: 123456
+
 ### Калькулятор расчета количества деталей на лист для типографии
 
 
